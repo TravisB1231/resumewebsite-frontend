@@ -1,0 +1,51 @@
+body {
+    background-color: darkslategrey;
+    color: blanchedalmond;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.text-center {
+    text-align: center;
+}
+h2 {
+    font-size: large;
+    font-weight: bold;
+}
+#name {
+    font-size: xx-large;
+}
+.section-body {
+    margin: 1%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.title-bold {
+    font-weight: bold;
+}
+.job-title {
+    font-style: italic;
+    margin-bottom: 0px;
+}
+.time-frame {
+    font-style: italic;
+    float: right;
+}
+.row {
+    display: flex;
+    justify-content: space-evenly;
+}
+.row-block {
+    padding: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    text-align: center;
+}
+.ul-no-dot {
+    list-style-type: none;
+    padding-inline-start: 0%;
+}
+.skills {
+    display: flex;
+    justify-content: center;
+    padding: 0.5%;
+}
