@@ -4,6 +4,9 @@ body {
     margin-left: 10%;
     margin-right: 10%;
 }
+a {
+    color: aqua;
+}
 .text-center {
     text-align: center;
 }
@@ -21,6 +24,7 @@ h2 {
 }
 .title-bold {
     font-weight: bold;
+    margin-bottom: 0%;
 }
 .job-title {
     font-style: italic;
